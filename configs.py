@@ -7,14 +7,14 @@ import os
 class Config(object):
     API_ID = int(os.getenv("API_ID", "19911978"))
     API_HASH = os.getenv("API_HASH", "e3f5848d4c384af9e6f1f52ca84c19c7")
-    BOT_TOKEN = os.getenv("BOT_TOKEN", "5819841938:AAGsHUgEZt6nhqcKr8knzwHyDSxn9mVY_C0")
-    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "Link Search Bot")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOLoBu13TPoRM2tF3n5FZqQIRAgU-bR9bf3k0g55oBPt2xfHhHIr_rbwzApDkpUxXoM7QDI7TAZ56JkJIeAwTP1TSoV-CCZMrg8271h-eQiDXzenyB9MZ0YM6jtztE_Krs-I5tMofEmMPQO2nwRdA9dD4yILLNfa3xMPmSPqMxYIoaiusV9MhSekCA45aRQ4rMGWvSOuuyEjy4Tjyy5-aOM5SV8d4D52B7PZdxMYDNEZr8r4LzZSV_T0W0A4MsjtRTF2Igk3qOtXVBS3TbF1XSn3eGJQN8co3JwheZVmhPkNDP15DFW8L-RBBpsQuCg4Z8cyBDeDAe5zHCGFVzQsJn9_svK4=")
-    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001850325534")) 
-    BOT_USERNAME = os.getenv("BOT_USERNAME", "Link_search_robot")
-    BOT_OWNER = int(os.getenv("BOT_OWNER", "5265175025"))
-#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "Nischayyadav")
-    BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "Legendbotupdates")
+    BOT_TOKEN = os.getenv("BOT_TOKEN", "6099676992:AAHaaiYdQoPS9HE_dRfVrqZciMKF6PIv_wE")
+    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "Mdisk Search Bot")
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOK0Bu2ocozWk60K_wzZd0WYHr2Qfy5OSAikBPK4mvfaFSBFkgNZUozO9vmyaxG4Nss5aRfLkhqfDFPq5kLhchkjeflD4JN4Tg2LIC-yGfXL64P-MO07jGPZBYlUgcEzgbKwjkKyFTJODwtC0zfUl1GOkI1Gr41-Bm0QRSHdh6iC5jM4wO6DMYw3HLEy5ULckZpJ7EDV-WtEgjzVxoK7ufNaqpiFBNWRbAzs_kgz9xwQmwv64Igp9OXywJ0qTmf1po4rXBSzjxiKsNUWgoUPCcgHXNO22gUjbqUF-wFP6v-IhTTXsiO4eTxiGFaDLKpHw0Ly7R8POkX4kKvTw5_UtUIzJ7n0=")
+    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001843883307")) 
+    BOT_USERNAME = os.getenv("BOT_USERNAME", "MdiskMovie_Search_robot")
+    BOT_OWNER = int(os.getenv("BOT_OWNER", "6186326149"))
+#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "NischayBots")
+    BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "ExtraBotsUpdates")
 #    GROUP_USERNAME = os.getenv("GROUP_USERNAME")
     START_MSG = os.getenv("START_MSG", """**Hᴇʏ {}, 
 
@@ -45,7 +45,7 @@ Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" )
 
 i ɴᴏᴛ ꜱᴛᴏʀᴇ ᴀɴʏ ꜰɪʟᴇꜱ ᴏʀ ᴛᴇxᴛ ɪɴ  ᴍʏ ᴅᴀᴛᴀʙᴀꜱᴇ.
 
-ᴅᴍ ꜰᴏʀ ᴀɴʏ Qᴜᴇʀʏ @Nischayyadav 🤖""" )
+ᴅᴍ ꜰᴏʀ ᴀɴʏ Qᴜᴇʀʏ @NischayBots 🤖""" )
     ABOUT_WATCH_TEXT = """
 ʜᴇʏ ʙᴜᴅᴅʏ, 
 
@@ -54,7 +54,7 @@ i ɴᴏᴛ ꜱᴛᴏʀᴇ ᴀɴʏ ꜰɪʟᴇꜱ ᴏʀ ᴛᴇxᴛ ɪɴ  ᴍʏ ᴅ
 
 ᴛᴇʀᴀ ʙᴏx - ᴀɢᴀʀ ᴀᴘᴘᴋᴏ ɴᴀʜɪ ᴘᴀᴛᴀ ᴋɪ ᴛᴇʀᴀʙᴏx sᴇ ᴍᴏᴠɪᴇs ᴋᴀɪsᴇ ᴅᴇᴋʜᴇ ᴛᴏ ɴɪᴄʜᴇ ᴅɪʏᴇ ɢᴀʏᴇ ᴛᴇʀᴀ ʙᴏx ʙᴜᴛᴛᴏɴ ᴘᴀʀ ᴄʟɪᴄᴋ ᴋᴀʀᴇ
 
-ʀᴇɢᴀʀᴅs - @Legendbotupdates"""
+ʀᴇɢᴀʀᴅs - ExtraBotsUpdates"""
     ABOUT_MDISK_TEXT = """
 𝗠𝗱𝗶𝘀𝗸 𝗸𝗶 𝗹𝗶𝗻𝗸𝘀 𝗢𝗽𝗲𝗻 𝗔𝗶𝘀𝗲 𝗞𝗮𝗿𝗲👇🔥
 वीडियो प्ले करने में कोई प्रोब्लम अ रही हो तो Mx Player App डाउनलोड करले😊👍
@@ -108,7 +108,7 @@ https://terabox.com/s/1QZGvLaoU_VMaSCDT2NNvOQ
 
 ᴀɢᴀʀ ʙᴏᴛ ᴀᴅᴍɪɴ ᴀᴘᴋᴀ ʀᴇQᴜᴇꜱᴛ ᴀᴄᴄᴇᴘᴛ ɴʜɪ ᴋᴀʀ ʀᴀʜᴇ ʜᴀɪɴ ᴛᴏ ᴜɴʜᴇ ᴘᴇʀꜱᴏɴᴀʟ ᴍꜱɢ ᴋᴀʀᴇɴ.
 
-👉 @Nischayyadav
+👉 @NischayBots
 
 """
 
