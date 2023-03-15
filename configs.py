@@ -10,7 +10,7 @@ class Config(object):
     BOT_TOKEN = os.getenv("BOT_TOKEN", "5783794914:AAGsdNpEIQ7GtBa7ZkwOotbe8uXUd2WLDpc")
     BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "Mdisk Search Bot")
     USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOK0Bu2ocozWk60K_wzZd0WYHr2Qfy5OSAikBPK4mvfaFSBFkgNZUozO9vmyaxG4Nss5aRfLkhqfDFPq5kLhchkjeflD4JN4Tg2LIC-yGfXL64P-MO07jGPZBYlUgcEzgbKwjkKyFTJODwtC0zfUl1GOkI1Gr41-Bm0QRSHdh6iC5jM4wO6DMYw3HLEy5ULckZpJ7EDV-WtEgjzVxoK7ufNaqpiFBNWRbAzs_kgz9xwQmwv64Igp9OXywJ0qTmf1po4rXBSzjxiKsNUWgoUPCcgHXNO22gUjbqUF-wFP6v-IhTTXsiO4eTxiGFaDLKpHw0Ly7R8POkX4kKvTw5_UtUIzJ7n0=")
-    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001843883307")) 
+    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001904900404")) 
     BOT_USERNAME = os.getenv("BOT_USERNAME", "MdiskMovie_Search_robot")
     BOT_OWNER = int(os.getenv("BOT_OWNER", "6186326149"))
 #    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "NischayBots")
